@@ -8,6 +8,7 @@ Description:
 
 Dependencies:
 
+
 Installing:
 
 Executing:
@@ -17,7 +18,10 @@ Help:
 Authors: Laura Parker @lparker78
 
 Version History:
+    0.2 Updated Release with Accessibility & Improvements to stylesheet efficiencies
+    0.1 Initial Release
 
 License:
 
 Acknowledgements:
+    @pavild (validation on README info)
