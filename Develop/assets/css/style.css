@@ -55,19 +55,12 @@ p {
     font-size: 16px;
 }
 
-/*These elements style a hero section (for adding text later) and displays hero image across top*/
+/*This element style a hero section and displays hero image as background image across top*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: "./assets/images/digital-marketing-meeting.jpg";
-    background-size: cover;
-    background-position: center;
-}
-
-.hero img{
-    width: 100%;
-    max-height: 800px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
