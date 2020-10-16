@@ -14,7 +14,7 @@ Usage:
 
 Credits: Laura Parker @lparker78 (author)
 
-License: GNU GPLv3   Plese use this project fo your own learning!
+License: MIT   Plese use this project fo your own learning!
 
 
 
